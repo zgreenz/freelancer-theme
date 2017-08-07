@@ -1,11 +1,11 @@
 ---
-title: Project 3
-date: 2014-07-16 07:00:00 +07:00
+title: Project 6
+date: 2014-07-15 07:00:00 +07:00
 categories:
 - Web Development
 layout: default
-modal-id: 3
-img: circus.png
+modal-id: 6
+img: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

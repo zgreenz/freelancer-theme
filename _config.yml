@@ -1,11 +1,50 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-twitter_username: jekyllrb
-github_username:  jekyll
-baseurl: "/freelancer-theme"
-
-# Build settings
+---
+title: Hướng dẫn mua hàng online
+timezone: Asia/Bangkok
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: ngoc.tam301193@gmail.com
+url: https://username.github.io
+description: Hướng dẫn mua hàng online
+keywords: your keywords, separated by commas
+skills: Web Developer - Graphic Artist - User Experience Designer
+meta_author: LastName FirstName
+google_verify: 
+bing_verify: 
+contact: static
+disqus_shortname: myshortname
+color:
+  primary: 18bc9c
+  primary-rgb: '24,288,156'
+  secondary: 2c3e50
+  secondary-dark: 233140
+footer:
+  copyright: Nguyễn Tâm
+  location: Hồ Chí Minh
+  social: Around the Web
+  credits: 
+social:
+- title: twitter
+  url: http://twitter.com/jekyllrb
+- title: facebook
+  url: https://www.facebook.com/greendanbo
+- title: stack-overflow
+  url: http://stackoverflow.com/questions/tagged/jekyll
+- title: bitbucket
+  url: http://bitbucket.org/jekyll
+- title: github
+  url: http://github.com/jekyll
+address:
+- line: 3481 Melrose Place
+- line: Beverly Hills, CA 90210
+credits: Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start
+  Bootstrap</a>.
 markdown: kramdown
 permalink: pretty
+plugins:
+- jekyll-sitemap
