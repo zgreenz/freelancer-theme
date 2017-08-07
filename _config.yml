@@ -1,6 +1,6 @@
 ---
-title: Freelancer
-timezone: UTC
+title: Hướng dẫn mua hàng online
+timezone: Asia/Bangkok
 collections:
   posts:
     title: Posts
@@ -8,11 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
+email: ngoc.tam301193@gmail.com
 url: https://username.github.io
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Hướng dẫn mua hàng online
 keywords: your keywords, separated by commas
 skills: Web Developer - Graphic Artist - User Experience Designer
 meta_author: LastName FirstName
@@ -26,15 +24,15 @@ color:
   secondary: 2c3e50
   secondary-dark: 233140
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Nguyễn Tâm
+  location: Hồ Chí Minh
   social: Around the Web
-  credits: Credits
+  credits: 
 social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url: 
+  url: https://www.facebook.com/greendanbo
 - title: stack-overflow
   url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
